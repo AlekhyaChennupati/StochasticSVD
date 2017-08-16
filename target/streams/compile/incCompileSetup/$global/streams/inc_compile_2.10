@@ -1,0 +1,337 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/target/scala-2.10/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.4
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+21 items
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> /Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/target/scala-2.10/classes/SSVDFinal$$anonfun$1.class
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> /Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/target/scala-2.10/classes/SSVDFinal$$anonfun$10.class
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> /Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/target/scala-2.10/classes/SSVDFinal$$anonfun$11.class
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> /Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/target/scala-2.10/classes/SSVDFinal$$anonfun$12$$anonfun$apply$1$$anonfun$apply$mcVI$sp$1.class
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> /Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/target/scala-2.10/classes/SSVDFinal$$anonfun$12$$anonfun$apply$1.class
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> /Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/target/scala-2.10/classes/SSVDFinal$$anonfun$12.class
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> /Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/target/scala-2.10/classes/SSVDFinal$$anonfun$13.class
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> /Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/target/scala-2.10/classes/SSVDFinal$$anonfun$2.class
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> /Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/target/scala-2.10/classes/SSVDFinal$$anonfun$3.class
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> /Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/target/scala-2.10/classes/SSVDFinal$$anonfun$4.class
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> /Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/target/scala-2.10/classes/SSVDFinal$$anonfun$5.class
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> /Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/target/scala-2.10/classes/SSVDFinal$$anonfun$8$$anonfun$apply$2.class
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> /Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/target/scala-2.10/classes/SSVDFinal$$anonfun$8.class
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> /Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/target/scala-2.10/classes/SSVDFinal$$anonfun$9.class
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> /Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/target/scala-2.10/classes/SSVDFinal$$anonfun$SSVDFinal$$joinFunc$1$1$$anonfun$6.class
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> /Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/target/scala-2.10/classes/SSVDFinal$$anonfun$SSVDFinal$$joinFunc$1$1$$anonfun$7.class
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> /Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/target/scala-2.10/classes/SSVDFinal$$anonfun$SSVDFinal$$joinFunc$1$1.class
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> /Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/target/scala-2.10/classes/SSVDFinal$$anonfun$SSVDFinal$$joinFunc$1$2.class
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> /Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/target/scala-2.10/classes/SSVDFinal$$anonfun$SSVDFinal$$stopFunc$1$1.class
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> /Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/target/scala-2.10/classes/SSVDFinal$.class
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> /Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/target/scala-2.10/classes/SSVDFinal.class
+binary dependencies:
+5 items
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_31.jdk/Contents/Home/jre/lib/rt.jar
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> /Users/Alya/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.3.0.jar
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> /Users/Alya/.ivy2/cache/org.apache.spark/spark-mllib_2.10/jars/spark-mllib_2.10-1.3.0.jar
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> /Users/Alya/.ivy2/cache/org.scalanlp/breeze_2.10/jars/breeze_2.10-0.11.1.jar
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> /Users/Alya/.sbt/boot/scala-2.10.4/lib/scala-library.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+21 items
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> SSVDFinal
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> SSVDFinal$
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> SSVDFinal$$anonfun$1
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> SSVDFinal$$anonfun$10
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> SSVDFinal$$anonfun$11
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> SSVDFinal$$anonfun$12
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> SSVDFinal$$anonfun$12$$anonfun$apply$1
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> SSVDFinal$$anonfun$12$$anonfun$apply$1$$anonfun$apply$mcVI$sp$1
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> SSVDFinal$$anonfun$13
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> SSVDFinal$$anonfun$2
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> SSVDFinal$$anonfun$3
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> SSVDFinal$$anonfun$4
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> SSVDFinal$$anonfun$5
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> SSVDFinal$$anonfun$8
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> SSVDFinal$$anonfun$8$$anonfun$apply$2
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> SSVDFinal$$anonfun$9
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> SSVDFinal$$anonfun$SSVDFinal$$joinFunc$1$1
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> SSVDFinal$$anonfun$SSVDFinal$$joinFunc$1$1$$anonfun$6
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> SSVDFinal$$anonfun$SSVDFinal$$joinFunc$1$1$$anonfun$7
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> SSVDFinal$$anonfun$SSVDFinal$$joinFunc$1$2
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> SSVDFinal$$anonfun$SSVDFinal$$stopFunc$1$1
+used names:
+187 items
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> !=
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> *
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> +
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> +=
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> -
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> /
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> :*
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> ::
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> <init>
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> ==
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> AnyRef
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> Array
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> ArrayBuffer
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> BMatrix
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> ClassTag
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> DenseMatrix
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> DenseVector
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> Double
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> DoubleZero
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> Field
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> FrobNorm
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> FrobeniousMat
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> Int
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> Long
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> Map
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> Math
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> Matrices
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> Matrix
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> OrigDenseVec
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> Predef
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> QmatChopped
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> RowMatrix
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> SOrigDensMat
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> SSVDFinal
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> SVDMulStoch
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> SVDOrig
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> ScalaRunTime
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> SingularValueDecomposition
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> Sorting
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> SparkConf
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> SparkContext
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> SparseVector
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> String
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> Svd_DM_Impl
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> UCHopped
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> UFinal
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> Unit
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> VFinal
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> VTransp
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> Vector
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> Vectors
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> YDenseMat
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> Zero
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> _1
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> _2
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> _3
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> a
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> apache
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> apply
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> arrayClass
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> b
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> breeze
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> broadCastMat
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> broadcast
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> c
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> canBuildFrom
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> canJustQIfWeCanQR
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> canNorm
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> canSliceCols
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> canSliceColsAndRows
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> canTranspose
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> collect
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> collection
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> cols
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> conf
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> contains
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> copyToArray
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> count
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> data
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> densMatTransp
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> dense
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> denseRand
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> diag
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> diagDVDMImpl
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> distinct
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> distributed
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> doubleArrayOps
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> equals
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> fieldDouble
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> filter
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> flatMap
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> foreach
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> i
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> implOpMulMatrix_DMD_DMD_eq_DMD
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> impl_DM_Double
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> ind
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> indices
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> intArrayOps
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> intWrapper
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> j
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> java
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> joinFunc
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> justQ
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> k
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> key
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> lang
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> leftVectors
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> length
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> linalg
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> line
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> map
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> materializeClassTag
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> math
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> matrixData
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> mllib
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> mutable
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> ne
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> newQMat
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> noStopArray
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> nonZeroIndices
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> nonzeroWordCounts
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> norm
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> numerics
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> occur
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> op_DM_DM_Double_OpAdd
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> op_DM_S_Double_OpMulScalar
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> org
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> p
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> package
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> prev
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> println
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> qmatrix
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> qr
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> quickSort
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> r
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> rand
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> refArrayOps
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> rightVectors
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> rows
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> s
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> sOrig
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> sSSVD
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> sc
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> scala
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> setAppName
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> setMaster
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> sigmaDensMat
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> singularValues
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> size
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> sparVect
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> spark
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> split
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> splitData
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> sqrt
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> stopArrayBuffer
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> stopFunc
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> stopWordsArray
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> stopWordstest
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> storage
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> svd
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> t
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> temp
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> textFile
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> to
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> toArray
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> toDenseVector
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> toDouble
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> toInt
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> toLowerCase
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> trim
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> tweetDataStopWords
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> twitterStopWordsData
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> uOrig
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> uSSVD
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> unary_!
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> unchecked
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> uniqueNonZero
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> uniqueWordsStop
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> until
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> update
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> util
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> vOrig
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> vSSVD
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> val1
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> value
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> zipWithIndex
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> zippedDataStopWords
+product stamps:
+21 items
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/target/scala-2.10/classes/SSVDFinal$$anonfun$1.class -> lastModified(1430272934000)
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/target/scala-2.10/classes/SSVDFinal$$anonfun$10.class -> lastModified(1430272934000)
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/target/scala-2.10/classes/SSVDFinal$$anonfun$11.class -> lastModified(1430272934000)
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/target/scala-2.10/classes/SSVDFinal$$anonfun$12$$anonfun$apply$1$$anonfun$apply$mcVI$sp$1.class -> lastModified(1430272934000)
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/target/scala-2.10/classes/SSVDFinal$$anonfun$12$$anonfun$apply$1.class -> lastModified(1430272934000)
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/target/scala-2.10/classes/SSVDFinal$$anonfun$12.class -> lastModified(1430272934000)
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/target/scala-2.10/classes/SSVDFinal$$anonfun$13.class -> lastModified(1430272934000)
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/target/scala-2.10/classes/SSVDFinal$$anonfun$2.class -> lastModified(1430272934000)
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/target/scala-2.10/classes/SSVDFinal$$anonfun$3.class -> lastModified(1430272934000)
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/target/scala-2.10/classes/SSVDFinal$$anonfun$4.class -> lastModified(1430272934000)
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/target/scala-2.10/classes/SSVDFinal$$anonfun$5.class -> lastModified(1430272934000)
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/target/scala-2.10/classes/SSVDFinal$$anonfun$8$$anonfun$apply$2.class -> lastModified(1430272934000)
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/target/scala-2.10/classes/SSVDFinal$$anonfun$8.class -> lastModified(1430272934000)
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/target/scala-2.10/classes/SSVDFinal$$anonfun$9.class -> lastModified(1430272934000)
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/target/scala-2.10/classes/SSVDFinal$$anonfun$SSVDFinal$$joinFunc$1$1$$anonfun$6.class -> lastModified(1430272934000)
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/target/scala-2.10/classes/SSVDFinal$$anonfun$SSVDFinal$$joinFunc$1$1$$anonfun$7.class -> lastModified(1430272934000)
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/target/scala-2.10/classes/SSVDFinal$$anonfun$SSVDFinal$$joinFunc$1$1.class -> lastModified(1430272934000)
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/target/scala-2.10/classes/SSVDFinal$$anonfun$SSVDFinal$$joinFunc$1$2.class -> lastModified(1430272934000)
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/target/scala-2.10/classes/SSVDFinal$$anonfun$SSVDFinal$$stopFunc$1$1.class -> lastModified(1430272934000)
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/target/scala-2.10/classes/SSVDFinal$.class -> lastModified(1430272934000)
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/target/scala-2.10/classes/SSVDFinal.class -> lastModified(1430272934000)
+source stamps:
+1 items
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> hash(c09d1a0a0467f45eec98c0ab4df62c1fadb68309)
+binary stamps:
+5 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_31.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1418879070000)
+/Users/Alya/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.3.0.jar -> lastModified(1425598998000)
+/Users/Alya/.ivy2/cache/org.apache.spark/spark-mllib_2.10/jars/spark-mllib_2.10-1.3.0.jar -> lastModified(1425599015000)
+/Users/Alya/.ivy2/cache/org.scalanlp/breeze_2.10/jars/breeze_2.10-0.11.1.jar -> lastModified(1425444991000)
+/Users/Alya/.sbt/boot/scala-2.10.4/lib/scala-library.jar -> lastModified(1395179187000)
+class names:
+5 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_31.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/Alya/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.3.0.jar -> org.apache.spark.SparkContext
+/Users/Alya/.ivy2/cache/org.apache.spark/spark-mllib_2.10/jars/spark-mllib_2.10-1.3.0.jar -> org.apache.spark.mllib.linalg.Matrices$
+/Users/Alya/.ivy2/cache/org.scalanlp/breeze_2.10/jars/breeze_2.10-0.11.1.jar -> breeze.linalg.DenseMatrix
+/Users/Alya/.sbt/boot/scala-2.10.4/lib/scala-library.jar -> scala.collection.TraversableOnce
+internal apis:
+1 items
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAo7ziPAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cGc6BBV0AAZub3RpZnlzcQB+AAwdbSd/dAAEd2FpdHNxAH4ADNZ0C690AA0kYXNJbnN0YW5jZU9mc3EAfgAM6c1wNnQABmVxdWFsc3NxAH4ADCvQASJ0AAlTU1ZERmluYWxzcQB+AAxY2TW5dAAMYXNJbnN0YW5jZU9mc3EAfgAMm6oPbnQADHN5bmNocm9uaXplZHNxAH4ADJ9BDgN0AA0kaXNJbnN0YW5jZU9mc3EAfgAM6tambXQABG1haW5zcQB+AAw59XTUdAAJbm90aWZ5QWxsc3EAfgAMAAUXBnQADGlzSW5zdGFuY2VPZnNxAH4ADH34Y6Z0AAI9PXNxAH4ADED2KTx0AAVjbG9uZXNxAH4ADHOV9PN0AAh0b1N0cmluZ3NxAH4ADAFyvfJ0AAIhPXNxAH4ADKIAwyl0AAhnZXRDbGFzc3NxAH4ADHWemSZ0AAJuZXNxAH4ADLqYBbp0AAJlcXNxAH4ADJsK9iR0AAIjI3NxAH4ADMCAzzt0AAhmaW5hbGl6ZXNxAH4ADP56fDZ0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cABxAH4AF3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AWAFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQUwACWluaGVyaXRlZHEAfgBBTAAHcGFyZW50c3EAfgBBeHEAfgBfc3EAfgBYAXVxAH4APAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AQnEAfgBLdXEAfgBMAAAAAHNxAH4ATgBxAH4AH3VxAH4AUAAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBedAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AXnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AenVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGd4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFN0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AG5bAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AF5zcQB+AG10AAVBcnJheXEAfgBzdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AG10AAZTdHJpbmdzcQB+AHFzcQB+AHR1cQB+AHcAAAADc3EAfgB5dAAEamF2YXNxAH4AeXQABGxhbmdxAH4AfnBzcQB+AFgBdXEAfgA8AAAAAHBzcQB+AFgBdXEAfgCSAAAAAnNxAH4AbXQABk9iamVjdHEAfgCWc3EAfgBtdAADQW55cQB+AHNwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFNAujYsnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AGAvVXNlcnMvQWx5YS93b3Jrc3BhY2Uvc3BhcmstMS4zLjAtYmluLWhhZG9vcDIuNC9TcGFyayBQcm9qZWN0cy9ORVdTU1ZEL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTAnRoKBGf0XuyYwKtN9iwfrbaDCQ==
+external apis:
+0 items
+source infos:
+1 items
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/NEWSSVD/src/main/scala/SSVDFinal.scala -> 
+AAAAAAAAAAA=
+compilations:
+7 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTQK4ttp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYC9Vc2Vycy9BbHlhL3dvcmtzcGFjZS9zcGFyay0xLjMuMC1iaW4taGFkb29wMi40L1NwYXJrIFByb2plY3RzL05FV1NTVkQvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTQLNClV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYC9Vc2Vycy9BbHlhL3dvcmtzcGFjZS9zcGFyay0xLjMuMC1iaW4taGFkb29wMi40L1NwYXJrIFByb2plY3RzL05FV1NTVkQvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTQLRHUx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYC9Vc2Vycy9BbHlhL3dvcmtzcGFjZS9zcGFyay0xLjMuMC1iaW4taGFkb29wMi40L1NwYXJrIFByb2plY3RzL05FV1NTVkQvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTQLWC011cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYC9Vc2Vycy9BbHlhL3dvcmtzcGFjZS9zcGFyay0xLjMuMC1iaW4taGFkb29wMi40L1NwYXJrIFByb2plY3RzL05FV1NTVkQvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTQLZOL51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYC9Vc2Vycy9BbHlhL3dvcmtzcGFjZS9zcGFyay0xLjMuMC1iaW4taGFkb29wMi40L1NwYXJrIFByb2plY3RzL05FV1NTVkQvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+5 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTQLchE11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYC9Vc2Vycy9BbHlhL3dvcmtzcGFjZS9zcGFyay0xLjMuMC1iaW4taGFkb29wMi40L1NwYXJrIFByb2plY3RzL05FV1NTVkQvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+6 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTQLo2LJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYC9Vc2Vycy9BbHlhL3dvcmtzcGFjZS9zcGFyay0xLjMuMC1iaW4taGFkb29wMi40L1NwYXJrIFByb2plY3RzL05FV1NTVkQvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
